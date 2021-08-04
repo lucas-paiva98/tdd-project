@@ -1,0 +1,4 @@
+1 - Testes funcionais verificam o comportamento do sistema, já os testes de unidade testam apenas por exemplo classes e métodos
+do sistema.
+2 - Testes funcionais buscam verificar o comportamento a partir do ponto de vista do usuário final, já os testes de unidade 
+verificam o ponto de vista dos desenvolvedores
