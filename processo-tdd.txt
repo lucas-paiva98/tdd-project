@@ -1,0 +1,3 @@
+Dado o processo de escrever testes funcionais e de unidade, a figura apresenta os seguintes passos escrever um teste funcional
+caso ele passe verifica-se se necessita de refatoração se precisar irá implementar o mínimo de código para escrever testes
+de unidade para esse código implementado seguindo o mesmo processo acima.
